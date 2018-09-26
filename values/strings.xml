@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android-yuma</string>
+    <string name="btn1">キャンセル</string>
+    <string name="btn2">送信</string>
+    <string name="name">ユーザー名</string>
+    <string name="pass">パスワード</string>
+    <string name="textbox" />
+    <string name="result">送信されました</string>
+    <string name="result_btn">戻る</string>
+    <string name="itemview" />
+    <string name="itemview" />
+    <string name="description1">background</string>
+    <string name="description2">picture</string>
+</resources>
