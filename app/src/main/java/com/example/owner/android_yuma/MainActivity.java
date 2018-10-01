@@ -3,9 +3,7 @@ package com.example.owner.android_yuma;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.telecom.TelecomManager;
 import android.view.View;
-import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -15,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void onClickButton(View view) {
-        Intent intent = new Intent(this, ResultActivity.class);
+        Intent intent = new Intent(this, NextActivity.class);
         startActivity(intent);
     }
 }

@@ -17,14 +17,6 @@
         android:layout_height="wrap_content">
 
         <ImageView
-            android:id="@+id/image_view2"
-            android:layout_width="100dp"
-            android:layout_height="100dp"
-            android:background="#f44"
-            android:contentDescription="@string/description1" />
-
-
-        <ImageView
             android:id="@+id/image_view"
             android:layout_width="96dp"
             android:layout_height="96dp"

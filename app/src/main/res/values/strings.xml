@@ -1,5 +1,13 @@
 <resources>
+    <!-- app name -->
     <string name="app_name">Android-yuma</string>
+    
+    <!-- activity names -->
+    <string name="title_main_activity">MainActivity</string>
+    <string name="title_next_activity">ResultActivity</string>
+    <string name="titile_third_activity">ThirdActivity</string>
+    
+    <!-- messages -->
     <string name="btn1">キャンセル</string>
     <string name="btn2">送信</string>
     <string name="name">ユーザー名</string>
