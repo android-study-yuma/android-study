@@ -24,11 +24,6 @@ public class NextActivity extends AppCompatActivity implements ItemAdapter.OnIte
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_next);
-        ActionBar toolbar = getSupportActionBar();
-        if (toolbar != null) {
-
-        }
-
         RecyclerView recyclerView = findViewById(R.id.my_recycler_view);
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
